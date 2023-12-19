@@ -2,7 +2,7 @@ An implementation of the transformer architecture, loosely based on [[1](https:/
 
 A demo is available [here](https://colab.research.google.com/drive/1TvI3j0vG8jHtNoXeAA6qAeJshZlanbhC). 
 
-The best performing model is included under Megatron-9M. 
+The best performing model is included under Megatron-9M.pt
 
 ![https://raw.githubusercontent.com/uknowwho/megatron/main/Megatron-9M-lossprogression.png](https://github.com/uknowwho/megatron/blob/main/Megatron-9M-lossprogression.png)
 
